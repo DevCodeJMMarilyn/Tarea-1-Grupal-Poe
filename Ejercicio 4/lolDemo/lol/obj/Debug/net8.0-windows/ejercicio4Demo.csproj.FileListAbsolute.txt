@@ -1,0 +1,16 @@
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\bin\Debug\net8.0-windows\ejercicio4Demo.exe
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\bin\Debug\net8.0-windows\ejercicio4Demo.deps.json
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\bin\Debug\net8.0-windows\ejercicio4Demo.runtimeconfig.json
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\bin\Debug\net8.0-windows\ejercicio4Demo.dll
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\bin\Debug\net8.0-windows\ejercicio4Demo.pdb
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\lol.Form1.resources
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\ejercicio4Demo.csproj.GenerateResource.cache
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\ejercicio4Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\ejercicio4Demo.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\ejercicio4Demo.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\ejercicio4Demo.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\ejercicio4Demo.dll
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\refint\ejercicio4Demo.dll
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\ejercicio4Demo.pdb
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\ejercicio4Demo.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\ref\ejercicio4Demo.dll

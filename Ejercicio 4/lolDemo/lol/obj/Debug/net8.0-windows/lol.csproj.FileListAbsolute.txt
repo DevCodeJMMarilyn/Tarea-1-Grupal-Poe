@@ -1,0 +1,16 @@
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\lol.Form1.resources
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\lol.csproj.GenerateResource.cache
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\lol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\lol.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\lol.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\lol.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\bin\Debug\net8.0-windows\lol.exe
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\bin\Debug\net8.0-windows\lol.deps.json
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\bin\Debug\net8.0-windows\lol.runtimeconfig.json
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\bin\Debug\net8.0-windows\lol.dll
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\bin\Debug\net8.0-windows\lol.pdb
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\lol.dll
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\refint\lol.dll
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\lol.pdb
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\lol.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\skibiproyecto\lolDemo\lol\obj\Debug\net8.0-windows\ref\lol.dll
