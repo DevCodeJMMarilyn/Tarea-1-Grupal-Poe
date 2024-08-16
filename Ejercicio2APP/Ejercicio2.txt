@@ -1,0 +1,1 @@
+Crear un formulario que permita calcular el tangente en grados y en radianes. Debe usar eventos de mouse para resolver el ejercicio.

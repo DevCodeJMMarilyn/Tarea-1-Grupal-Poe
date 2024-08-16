@@ -1,0 +1,1 @@
+Crear un programa que acepte dos string ingresados por el usuario y determinar si son iguales.

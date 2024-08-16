@@ -1,0 +1,1 @@
+Crear un programa que ayude a calcular el área y perímetro de un romboide y un trapezoide. Para resolver el ejercicio debe usar clases y objetos.
