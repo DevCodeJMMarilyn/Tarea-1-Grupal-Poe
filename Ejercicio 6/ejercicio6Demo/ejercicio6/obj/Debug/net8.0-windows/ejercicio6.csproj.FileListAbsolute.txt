@@ -1,0 +1,16 @@
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\bin\Debug\net8.0-windows\ejercicio6.exe
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\bin\Debug\net8.0-windows\ejercicio6.deps.json
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\bin\Debug\net8.0-windows\ejercicio6.runtimeconfig.json
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\bin\Debug\net8.0-windows\ejercicio6.dll
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\bin\Debug\net8.0-windows\ejercicio6.pdb
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\obj\Debug\net8.0-windows\ejercicio6.Form1.resources
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\obj\Debug\net8.0-windows\ejercicio6.csproj.GenerateResource.cache
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\obj\Debug\net8.0-windows\ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\obj\Debug\net8.0-windows\ejercicio6.AssemblyInfoInputs.cache
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\obj\Debug\net8.0-windows\ejercicio6.AssemblyInfo.cs
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\obj\Debug\net8.0-windows\ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\obj\Debug\net8.0-windows\ejercicio6.dll
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\obj\Debug\net8.0-windows\refint\ejercicio6.dll
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\obj\Debug\net8.0-windows\ejercicio6.pdb
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\obj\Debug\net8.0-windows\ejercicio6.genruntimeconfig.cache
+C:\Users\Anderson\source\repos\ejercicio6Demo\ejercicio6\obj\Debug\net8.0-windows\ref\ejercicio6.dll

@@ -1,0 +1,1 @@
+Crear un programa que permita calcular aceleración en función de la velocidad y el tiempo . Use POO.
